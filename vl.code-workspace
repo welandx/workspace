@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "verilog"
+		}
+	],
+	"settings": {
+		"verilog-format.path": "C:\\Users\\honor\\verilog_format\\verilog-format.exe"
+	}
+}
